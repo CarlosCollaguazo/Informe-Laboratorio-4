@@ -26,6 +26,8 @@ Conocer conceptos esenciales sobre la aplicación de la superposición en circui
 
 # 3. Explicación del Problema
 
+![image](https://user-images.githubusercontent.com/105675868/176937941-1b100951-e1e9-4b85-a164-65966740682d.png)
+
 # 4. Respuestas a interrogante
 
 # 5. Video
