@@ -56,6 +56,8 @@ Circuito en físico
 
 ![image](https://user-images.githubusercontent.com/105715717/176938892-fd1ddd13-2eea-4dee-9493-8c88ec567958.png)
 
+![image](https://user-images.githubusercontent.com/105715717/176940844-86a35acd-72a1-4ae7-b9a5-36582cdfe5b9.png)
+
 
 # 5. Video
 
