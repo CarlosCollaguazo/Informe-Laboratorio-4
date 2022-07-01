@@ -39,7 +39,14 @@ Va e Ix si V1 = 0
 
 # 3. Explicación del Problema
 
+
+
 # 4. Respuestas a interrogante
+
+![image](https://user-images.githubusercontent.com/105715717/176938855-4070a246-0f98-45e4-bac0-0017b29a8fde.png)
+
+![image](https://user-images.githubusercontent.com/105715717/176938892-fd1ddd13-2eea-4dee-9493-8c88ec567958.png)
+
 
 # 5. Video
 
