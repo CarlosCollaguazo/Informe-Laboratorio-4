@@ -24,9 +24,20 @@ Conocer conceptos esenciales sobre la aplicación de la superposición en circui
 
 ![image](https://user-images.githubusercontent.com/105675868/176931707-6a23ee31-05ab-4f86-8291-928e5091ec0c.png)
 
-# 3. Explicación del Problema
+Va e Ix en el circuito, con las 2 fuentes de voltaje
 
-![image](https://user-images.githubusercontent.com/105675868/176937941-1b100951-e1e9-4b85-a164-65966740682d.png)
+![image](https://user-images.githubusercontent.com/105715717/176938145-b61072f7-495f-4938-b543-6d2ebd3bf222.png)
+
+Va e Ix si V2 = 0
+
+![image](https://user-images.githubusercontent.com/105715717/176938363-3fa71693-bd33-4a0f-907d-9b2bd4a1cb9a.png)
+
+Va e Ix si V1 = 0
+
+![image](https://user-images.githubusercontent.com/105715717/176938597-b7d88f01-1d13-4941-a5dd-72f37c4ca16b.png)
+
+
+# 3. Explicación del Problema
 
 # 4. Respuestas a interrogante
 
