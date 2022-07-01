@@ -39,6 +39,11 @@ Va e Ix si V1 = 0
 
 # 3. Explicación del Problema
 
+![Stakeholder Map (1)](https://user-images.githubusercontent.com/105715717/176939022-fb665983-d956-4ea6-85c7-a056c36bec0f.jpg)
+
+![Stakeholder Map (2)](https://user-images.githubusercontent.com/105715717/176939050-dacffbe3-eb7a-4452-aebf-5d084593e814.jpg)
+
+![Stakeholder Map (3)](https://user-images.githubusercontent.com/105715717/176939080-36f74770-8701-4972-8123-8a43e10cabcf.jpg)
 
 
 # 4. Respuestas a interrogante
