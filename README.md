@@ -36,6 +36,10 @@ Va e Ix si V1 = 0
 
 ![image](https://user-images.githubusercontent.com/105715717/176938597-b7d88f01-1d13-4941-a5dd-72f37c4ca16b.png)
 
+Circuito en físico
+
+![image](https://user-images.githubusercontent.com/105715717/176939410-cfbd1118-5a59-43b0-ac59-60b7b09729a2.png)
+
 
 # 3. Explicación del Problema
 
